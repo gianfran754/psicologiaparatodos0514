@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>PsicologíaWeb</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect>brick</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/epsilon/</ImageTemplate>
+            <ImageTemplateName>Epsilon</ImageTemplateName>
+            <ImageWidth>1280</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/Psicología sitio WEB/Imagenes para Sitio Web/ELIMINAR.html</PublishFileName>
+            <PublishIndex>ELIMINAR.html</PublishIndex>
+            <PublishPath>E:/Psicología sitio WEB/Imagenes para Sitio Web</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>49</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto</TemplateFont>
+            <TemplateName>epsilon</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/Psicología sitio WEB/Imagenes para Sitio Web/Wowslider1.jpg</url>
+                <title>Psicología - Universidad César Vallejo</title>
+                <userurl>https://www.ucv.edu.pe/pregrado/psicologia</userurl>
+                <usertarget>_blank</usertarget>
+                <filesize>290820</filesize>
+            </Image>
+            <Image>
+                <url>E:/Psicología sitio WEB/Imagenes para Sitio Web/Wowslider2.1.jpg</url>
+                <title>Zambrano Montes &amp; Mego Ramirez</title>
+                <filesize>481439</filesize>
+            </Image>
+            <Image>
+                <url>E:/Psicología sitio WEB/Imagenes para Sitio Web/Wowslider3.jpg</url>
+                <title>Zambrano Montes &amp; Mego Ramirez</title>
+                <filesize>322278</filesize>
+            </Image>
+            <Image>
+                <url>E:/Psicología sitio WEB/Imagenes para Sitio Web/Wowslider4.jpg</url>
+                <title>Zambrano Montes &amp; Mego Ramirez</title>
+                <filesize>286907</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
